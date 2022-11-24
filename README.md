@@ -4,12 +4,12 @@ Prject Description :
 
 ## Features :
 
-React Routing
-React Bootstrap
-Custom Form Validation
-Create, Read, Update and Delete Operations
-Axios Api integrations
-Api Services Class
+1. React Routing
+2. React Bootstrap
+3. Custom Form Validation
+4. Create, Read, Update and Delete Operations
+5. Axios Api integrations
+6. Api Services Class
 
 ## Project Setup on localhost Steps to follow :
 
