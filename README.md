@@ -1,8 +1,8 @@
-### React js - Node js (Lb4) - MySql - Todos CRUD Application
+# React js - Node js (Lb4) - MySql - Todos CRUD Application
 
 Prject Description : 
 
-Features :
+## Features :
 
 React Routing
 React Bootstrap
@@ -11,7 +11,7 @@ Create, Read, Update and Delete Operations
 Axios Api integrations
 Api Services Class
 
-Project Setup on localhost Steps to follow :
+## Project Setup on localhost Steps to follow :
 
 1. Create mysql database(todos-db) and import sql file.
 2. Run npm install in (todos-api) api project directory. then run npm start command.
